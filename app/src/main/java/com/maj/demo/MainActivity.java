@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 break;
             case R.id.btn_media_player:
+                //视频播放测试
                 intent.setClass(mContext, VideoPlayActivity.class);
                 startActivity(intent);
                 break;
