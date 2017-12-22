@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/girl_fases_new_08" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_07" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_06" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_05" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_04" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_03" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_02" android:duration="127"></item>
+    <item android:drawable="@drawable/girl_fases_new_01" android:duration="127"></item>
+
+</animation-list>
